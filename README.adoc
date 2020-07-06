@@ -4,12 +4,15 @@ C'est l'histoire d'une famille de grenouilles qui aime beaucoup nager dans
 l'étang du coin. Ils y vivent en colocation avec une gentille famille de 
 libéllules avec qui ils s'entendent très bien. Cependant papa grenouille cache un terrible *_secret_*
 
-<<<<<<< HEAD
+
 Ce secret, c'est celui des crapeaux. Vous savez, ceux qui se transforment en
 prince charmant +
 On dit d'eux qu'au plus laid au plus beau.
 Je lui fit un baiser et hop, il fila dans l'eau.
-=======
+
 Papa est en fait hermaphrodite et aimerait devenir maman greouille afin de participer au concours
 de la meilleure maman grenouille de l'étang.
->>>>>>> b6619b8ed9204405a7e2d6e9da7dee7bfa772589
+
+Papa grenouille a mis au point un ==agent pathogène== hautement transmissible aux prédateurs
+principaux des grenouilles. Comme ça papa grenouille pourra devenir president grenouille aux 
+prochaine éléctions. D'ailleurs on l'entend reciter son discours éléctorale au ++crépuscule++.
